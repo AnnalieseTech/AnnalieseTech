@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnnalieseTech
 - 👀 I’m interested in becoming a Python master
 - 🌱 I’m currently learning Stock Market Analytics
-- 💞️ I’m looking to collaborate on full-stack web development projects
+- 💞️ I’m looking to collaborate on python-related projects 
 - 📫 How to reach me : +1 (631)-609-4374 or annaliesetech@gmail.com
 - ⚡ Fun fact: I train in MMA & Krav Maga
 
